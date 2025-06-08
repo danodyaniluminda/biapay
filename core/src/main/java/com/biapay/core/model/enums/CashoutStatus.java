@@ -1,0 +1,14 @@
+package com.biapay.core.model.enums;
+
+public enum CashoutStatus {
+  INITIATED,
+  SUBMITTED,
+  EXPIRED,
+  CANCELED,
+  PENDING_FUNDS,
+  PENDING_MANUAL_APPROVAL,
+  FAILED,
+  COMPLETED,
+  REVERSED,
+  PENDING_CONFIRMATION
+}

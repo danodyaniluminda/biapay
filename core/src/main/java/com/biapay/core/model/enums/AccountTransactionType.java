@@ -1,0 +1,18 @@
+package com.biapay.core.model.enums;
+
+public enum AccountTransactionType {
+  TOP_UP,
+  WITHDRAW,
+  WALLET_TO_WALLET,
+  WALLET_TO_ACCOUNT,
+  ACCOUNT_TO_ACCOUNT,
+  CASH_IN,
+  CASH_OUT,
+  AIRTIME_TOP_UP,
+  BILL_PAYMENT,
+  FLASH_TRANSFER,
+  REQUEST_MONEY_PAY,
+  DISBURSEMENT,
+  REVERSAL,
+  MONEY_TRANSFER
+}

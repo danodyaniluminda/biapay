@@ -1,0 +1,16 @@
+package com.biapay.core.constant.enums;
+
+public enum UploadType {
+  KYC,
+  PROFILE_IMAGE,
+  TICKET,
+  TICKET_REPLY,
+  MERCHANT_LOGO,
+  MERCHANT_QR,
+  MERCHANT_BARCODE,
+  CUSTOMER_QR,
+  CUSTOMER_BARCODE,
+  PRODUCT_IMAGE,
+  INVOICE_LOGO,
+  PAYMENT_METHOD_LOGO
+}
